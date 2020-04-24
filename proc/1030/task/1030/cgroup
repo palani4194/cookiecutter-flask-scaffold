@@ -1,0 +1,13 @@
+12:memory:/system.slice/system-postgresql.slice
+11:hugetlb:/
+10:blkio:/system.slice/system-postgresql.slice
+9:perf_event:/
+8:devices:/system.slice/system-postgresql.slice
+7:rdma:/
+6:cpuset:/
+5:freezer:/
+4:cpu,cpuacct:/system.slice/system-postgresql.slice
+3:net_cls,net_prio:/
+2:pids:/system.slice/system-postgresql.slice/postgresql@10-main.service
+1:name=systemd:/system.slice/system-postgresql.slice/postgresql@10-main.service
+0::/system.slice/system-postgresql.slice/postgresql@10-main.service

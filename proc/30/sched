@@ -1,0 +1,28 @@
+ksoftirqd/3 (30, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :      15252228.593279
+se.vruntime                                  :       4515489.165929
+se.sum_exec_runtime                          :           237.654323
+se.nr_migrations                             :                    1
+nr_switches                                  :                15146
+nr_voluntary_switches                        :                15117
+nr_involuntary_switches                      :                   29
+se.load.weight                               :              1048576
+se.runnable_weight                           :              1048576
+se.avg.load_sum                              :                  367
+se.avg.runnable_load_sum                     :                  367
+se.avg.util_sum                              :               378875
+se.avg.load_avg                              :                    6
+se.avg.runnable_load_avg                     :                    6
+se.avg.util_avg                              :                    6
+se.avg.last_update_time                      :       15252228592640
+se.avg.util_est.ewma                         :                    8
+se.avg.util_est.enqueued                     :                    0
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   11
+numa_pages_migrated                          :                    0
+numa_preferred_nid                           :                   -1
+total_numa_faults                            :                    0
+current_node=0, numa_group_id=0
+numa_faults node=0 task_private=0 task_shared=0 group_private=0 group_shared=0

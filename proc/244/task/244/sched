@@ -1,0 +1,28 @@
+scsi_eh_0 (244, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :          1794.578620
+se.vruntime                                  :           799.867757
+se.sum_exec_runtime                          :             0.716870
+se.nr_migrations                             :                    1
+nr_switches                                  :                   33
+nr_voluntary_switches                        :                   33
+nr_involuntary_switches                      :                    0
+se.load.weight                               :              1048576
+se.runnable_weight                           :              1048576
+se.avg.load_sum                              :                  379
+se.avg.runnable_load_sum                     :                  379
+se.avg.util_sum                              :               357947
+se.avg.load_avg                              :                    8
+se.avg.runnable_load_avg                     :                    8
+se.avg.util_avg                              :                    7
+se.avg.last_update_time                      :           1794578432
+se.avg.util_est.ewma                         :                    9
+se.avg.util_est.enqueued                     :                    0
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   10
+numa_pages_migrated                          :                    0
+numa_preferred_nid                           :                   -1
+total_numa_faults                            :                    0
+current_node=0, numa_group_id=0
+numa_faults node=0 task_private=0 task_shared=0 group_private=0 group_shared=0

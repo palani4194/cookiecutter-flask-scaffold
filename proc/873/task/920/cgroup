@@ -1,0 +1,13 @@
+12:memory:/system.slice/thermald.service
+11:hugetlb:/
+10:blkio:/system.slice/thermald.service
+9:perf_event:/
+8:devices:/system.slice/thermald.service
+7:rdma:/
+6:cpuset:/
+5:freezer:/
+4:cpu,cpuacct:/system.slice/thermald.service
+3:net_cls,net_prio:/
+2:pids:/system.slice/thermald.service
+1:name=systemd:/system.slice/thermald.service
+0::/system.slice/thermald.service

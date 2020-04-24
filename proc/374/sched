@@ -1,0 +1,28 @@
+loop7 (374, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :       1072245.779058
+se.vruntime                                  :        693011.227579
+se.sum_exec_runtime                          :             2.651071
+se.nr_migrations                             :                   29
+nr_switches                                  :                  127
+nr_voluntary_switches                        :                  123
+nr_involuntary_switches                      :                    4
+se.load.weight                               :             90891264
+se.runnable_weight                           :             90891264
+se.avg.load_sum                              :                  416
+se.avg.runnable_load_sum                     :                  416
+se.avg.util_sum                              :               261832
+se.avg.load_avg                              :                  696
+se.avg.runnable_load_avg                     :                  696
+se.avg.util_avg                              :                    4
+se.avg.last_update_time                      :        1072245778432
+se.avg.util_est.ewma                         :                   10
+se.avg.util_est.enqueued                     :                    0
+policy                                       :                    0
+prio                                         :                  100
+clock-delta                                  :                   10
+numa_pages_migrated                          :                    0
+numa_preferred_nid                           :                   -1
+total_numa_faults                            :                    0
+current_node=0, numa_group_id=0
+numa_faults node=0 task_private=0 task_shared=0 group_private=0 group_shared=0

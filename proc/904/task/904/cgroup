@@ -1,0 +1,13 @@
+12:memory:/system.slice/NetworkManager.service
+11:hugetlb:/
+10:blkio:/system.slice/NetworkManager.service
+9:perf_event:/
+8:devices:/system.slice/NetworkManager.service
+7:rdma:/
+6:cpuset:/
+5:freezer:/
+4:cpu,cpuacct:/system.slice/NetworkManager.service
+3:net_cls,net_prio:/
+2:pids:/system.slice/NetworkManager.service
+1:name=systemd:/system.slice/NetworkManager.service
+0::/system.slice/NetworkManager.service

@@ -1,0 +1,29 @@
+systemd-udevd (396, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :      15251969.072276
+se.vruntime                                  :          1974.757807
+se.sum_exec_runtime                          :          1935.551637
+se.nr_migrations                             :                  879
+nr_switches                                  :                 4543
+nr_voluntary_switches                        :                 2725
+nr_involuntary_switches                      :                 1818
+se.load.weight                               :              1048576
+se.runnable_weight                           :              1048576
+se.avg.load_sum                              :                 6608
+se.avg.runnable_load_sum                     :                 6608
+se.avg.util_sum                              :              1612374
+se.avg.load_avg                              :                  144
+se.avg.runnable_load_avg                     :                  144
+se.avg.util_avg                              :                   34
+se.avg.last_update_time                      :       15251969072128
+se.avg.util_est.ewma                         :                   31
+se.avg.util_est.enqueued                     :                    0
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   13
+mm->numa_scan_seq                            :                    0
+numa_pages_migrated                          :                    0
+numa_preferred_nid                           :                   -1
+total_numa_faults                            :                    0
+current_node=0, numa_group_id=0
+numa_faults node=0 task_private=0 task_shared=0 group_private=0 group_shared=0

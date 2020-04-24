@@ -1,0 +1,55 @@
+Name:	postgres
+Umask:	0077
+State:	S (sleeping)
+Tgid:	1030
+Ngid:	0
+Pid:	1030
+PPid:	1013
+TracerPid:	0
+Uid:	123	123	123	123
+Gid:	128	128	128	128
+FDSize:	64
+Groups:	110 128 
+NStgid:	1030
+NSpid:	1030
+NSpgid:	1030
+NSsid:	1030
+VmPeak:	  327472 kB
+VmSize:	  327472 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    4984 kB
+VmRSS:	    4984 kB
+RssAnon:	    2140 kB
+RssFile:	    2652 kB
+RssShmem:	     192 kB
+VmData:	    2192 kB
+VmStk:	     132 kB
+VmExe:	    7008 kB
+VmLib:	   53640 kB
+VmPTE:	     288 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+Threads:	1
+SigQ:	0/31169
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000001301800
+SigCgt:	0000000180006287
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	0
+Speculation_Store_Bypass:	thread vulnerable
+Cpus_allowed:	f
+Cpus_allowed_list:	0-3
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	87
+nonvoluntary_ctxt_switches:	3

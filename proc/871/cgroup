@@ -1,0 +1,13 @@
+12:memory:/system.slice/avahi-daemon.service
+11:hugetlb:/
+10:blkio:/system.slice/avahi-daemon.service
+9:perf_event:/
+8:devices:/system.slice/avahi-daemon.service
+7:rdma:/
+6:cpuset:/
+5:freezer:/
+4:cpu,cpuacct:/system.slice/avahi-daemon.service
+3:net_cls,net_prio:/
+2:pids:/system.slice/avahi-daemon.service
+1:name=systemd:/system.slice/avahi-daemon.service
+0::/system.slice/avahi-daemon.service

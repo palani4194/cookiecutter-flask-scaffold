@@ -1,0 +1,55 @@
+Name:	irqbalance
+Umask:	0022
+State:	S (sleeping)
+Tgid:	910
+Ngid:	0
+Pid:	910
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	128
+Groups:	 
+NStgid:	910
+NSpid:	910
+NSpgid:	910
+NSsid:	910
+VmPeak:	  176016 kB
+VmSize:	  110480 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    3436 kB
+VmRSS:	    3436 kB
+RssAnon:	     332 kB
+RssFile:	    3104 kB
+RssShmem:	       0 kB
+VmData:	    8688 kB
+VmStk:	     132 kB
+VmExe:	      56 kB
+VmLib:	    7460 kB
+VmPTE:	     116 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+Threads:	2
+SigQ:	0/31169
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000180004a03
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000000000000000
+CapAmb:	0000000000000000
+NoNewPrivs:	1
+Seccomp:	0
+Speculation_Store_Bypass:	thread vulnerable
+Cpus_allowed:	f
+Cpus_allowed_list:	0-3
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	1530
+nonvoluntary_ctxt_switches:	76

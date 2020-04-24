@@ -1,0 +1,55 @@
+Name:	ModemManager
+Umask:	0022
+State:	S (sleeping)
+Tgid:	905
+Ngid:	0
+Pid:	905
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	128
+Groups:	 
+NStgid:	905
+NSpid:	905
+NSpgid:	905
+NSsid:	905
+VmPeak:	  360600 kB
+VmSize:	  360592 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    9472 kB
+VmRSS:	    9472 kB
+RssAnon:	    1396 kB
+RssFile:	    8076 kB
+RssShmem:	       0 kB
+VmData:	   26048 kB
+VmStk:	     132 kB
+VmExe:	    1372 kB
+VmLib:	   13624 kB
+VmPTE:	     336 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+Threads:	3
+SigQ:	0/31169
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000180004002
+CapInh:	0000000000000000
+CapPrm:	0000000000200000
+CapEff:	0000000000200000
+CapBnd:	0000000000200000
+CapAmb:	0000000000000000
+NoNewPrivs:	1
+Seccomp:	2
+Speculation_Store_Bypass:	thread force mitigated
+Cpus_allowed:	f
+Cpus_allowed_list:	0-3
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	134
+nonvoluntary_ctxt_switches:	65

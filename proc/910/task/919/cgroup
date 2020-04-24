@@ -1,0 +1,13 @@
+12:memory:/system.slice/irqbalance.service
+11:hugetlb:/
+10:blkio:/system.slice/irqbalance.service
+9:perf_event:/
+8:devices:/system.slice/irqbalance.service
+7:rdma:/
+6:cpuset:/
+5:freezer:/
+4:cpu,cpuacct:/system.slice/irqbalance.service
+3:net_cls,net_prio:/
+2:pids:/system.slice/irqbalance.service
+1:name=systemd:/system.slice/irqbalance.service
+0::/system.slice/irqbalance.service

@@ -1,0 +1,29 @@
+snapd (1230, #threads: 21)
+-------------------------------------------------------------------
+se.exec_start                                :         94460.497174
+se.vruntime                                  :           319.799973
+se.sum_exec_runtime                          :            79.795693
+se.nr_migrations                             :                   58
+nr_switches                                  :                  440
+nr_voluntary_switches                        :                  336
+nr_involuntary_switches                      :                  104
+se.load.weight                               :              1048576
+se.runnable_weight                           :              1048576
+se.avg.load_sum                              :                 4091
+se.avg.runnable_load_sum                     :                 4091
+se.avg.util_sum                              :              4144579
+se.avg.load_avg                              :                   88
+se.avg.runnable_load_avg                     :                   88
+se.avg.util_avg                              :                   87
+se.avg.last_update_time                      :          94460496896
+se.avg.util_est.ewma                         :                   98
+se.avg.util_est.enqueued                     :                   87
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   14
+mm->numa_scan_seq                            :                    0
+numa_pages_migrated                          :                    0
+numa_preferred_nid                           :                   -1
+total_numa_faults                            :                    0
+current_node=0, numa_group_id=0
+numa_faults node=0 task_private=0 task_shared=0 group_private=0 group_shared=0

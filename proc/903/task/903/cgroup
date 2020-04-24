@@ -1,0 +1,13 @@
+12:memory:/system.slice/wpa_supplicant.service
+11:hugetlb:/
+10:blkio:/system.slice/wpa_supplicant.service
+9:perf_event:/
+8:devices:/system.slice/wpa_supplicant.service
+7:rdma:/
+6:cpuset:/
+5:freezer:/
+4:cpu,cpuacct:/system.slice/wpa_supplicant.service
+3:net_cls,net_prio:/
+2:pids:/system.slice/wpa_supplicant.service
+1:name=systemd:/system.slice/wpa_supplicant.service
+0::/system.slice/wpa_supplicant.service

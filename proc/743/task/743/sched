@@ -1,0 +1,29 @@
+systemd-resolve (743, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :      15228354.804294
+se.vruntime                                  :           661.324825
+se.sum_exec_runtime                          :          2561.004076
+se.nr_migrations                             :                 2292
+nr_switches                                  :                 7504
+nr_voluntary_switches                        :                 6860
+nr_involuntary_switches                      :                  644
+se.load.weight                               :              1048576
+se.runnable_weight                           :              1048576
+se.avg.load_sum                              :                  991
+se.avg.runnable_load_sum                     :                  991
+se.avg.util_sum                              :              1015952
+se.avg.load_avg                              :                   12
+se.avg.runnable_load_avg                     :                   12
+se.avg.util_avg                              :                   12
+se.avg.last_update_time                      :       15228354803712
+se.avg.util_est.ewma                         :                   10
+se.avg.util_est.enqueued                     :                    0
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   12
+mm->numa_scan_seq                            :                    0
+numa_pages_migrated                          :                    0
+numa_preferred_nid                           :                   -1
+total_numa_faults                            :                    0
+current_node=0, numa_group_id=0
+numa_faults node=0 task_private=0 task_shared=0 group_private=0 group_shared=0

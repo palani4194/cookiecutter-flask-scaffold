@@ -1,0 +1,29 @@
+gmain (895, #threads: 5)
+-------------------------------------------------------------------
+se.exec_start                                :          7763.349591
+se.vruntime                                  :            26.425812
+se.sum_exec_runtime                          :             0.119260
+se.nr_migrations                             :                    1
+nr_switches                                  :                    5
+nr_voluntary_switches                        :                    5
+nr_involuntary_switches                      :                    0
+se.load.weight                               :              1048576
+se.runnable_weight                           :              1048576
+se.avg.load_sum                              :                   16
+se.avg.runnable_load_sum                     :                   16
+se.avg.util_sum                              :                16384
+se.avg.load_avg                              :                    0
+se.avg.runnable_load_avg                     :                    0
+se.avg.util_avg                              :                    0
+se.avg.last_update_time                      :           7763349504
+se.avg.util_est.ewma                         :                   73
+se.avg.util_est.enqueued                     :                    1
+policy                                       :                    0
+prio                                         :                  120
+clock-delta                                  :                   16
+mm->numa_scan_seq                            :                    0
+numa_pages_migrated                          :                    0
+numa_preferred_nid                           :                   -1
+total_numa_faults                            :                    0
+current_node=0, numa_group_id=0
+numa_faults node=0 task_private=0 task_shared=0 group_private=0 group_shared=0

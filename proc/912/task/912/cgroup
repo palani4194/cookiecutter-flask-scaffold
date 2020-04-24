@@ -1,0 +1,13 @@
+12:memory:/system.slice/networkd-dispatcher.service
+11:hugetlb:/
+10:blkio:/system.slice/networkd-dispatcher.service
+9:perf_event:/
+8:devices:/system.slice/networkd-dispatcher.service
+7:rdma:/
+6:cpuset:/
+5:freezer:/
+4:cpu,cpuacct:/system.slice/networkd-dispatcher.service
+3:net_cls,net_prio:/
+2:pids:/system.slice/networkd-dispatcher.service
+1:name=systemd:/system.slice/networkd-dispatcher.service
+0::/system.slice/networkd-dispatcher.service
